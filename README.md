@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thosin Ridho</h1>
 <h3 align="center">A vocational school student in West Java, Indonesia</h3>
 
-- 🌱 I’m currently learning **javascript, Reactjs, PHP, MySql**
-
-- 📫 How to reach me **S1111nthink@gmail.com**
+- 🌱 I’m currently learning:<br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+- 📫 How to reach me: **S1111nthink@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
